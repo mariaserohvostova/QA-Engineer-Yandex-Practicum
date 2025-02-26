@@ -1,1 +1,1 @@
-# QA-Engineer-Yandex-Practicum
+# Инженер по тестированию Яндекс Практикум
